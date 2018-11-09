@@ -3,7 +3,7 @@ ARDUINO STM32 TM1637 7 segment module
 
 
 ## Example
-```arduino
+```c
 #include "STM32_TM1637.h"
 #define numb_clock  PB14
 #define numb_data PB15
